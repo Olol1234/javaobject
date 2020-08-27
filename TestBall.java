@@ -1,4 +1,4 @@
-package LabTestAzfar;
+
 
 import java.util.Scanner;
 
