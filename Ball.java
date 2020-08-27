@@ -1,4 +1,4 @@
-package LabTestAzfar;
+package ball;
 
 class Ball {
 
